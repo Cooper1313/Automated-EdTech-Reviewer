@@ -1,4 +1,4 @@
-# AI-Powered Ed-Tech Reviewer for Google Docs
+# API Tool-Review for Ed Tech
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Built with: Google Apps Script](https://img.shields.io/badge/Built_with-Google_Apps_Script-orange.svg)
