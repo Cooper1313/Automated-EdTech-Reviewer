@@ -7,11 +7,6 @@ An AI-powered tool for Google Docs that automates the creation of comprehensive 
 
 ### Demo
 
-*(This is where you should include a short screen recording GIF of the tool in action. Replace the `URL_TO_YOUR_DEMO_GIF` placeholder below with a direct link to your hosted GIF.)*
-
-<p align="center">
-  <img src="URL_TO_YOUR_DEMO_GIF" alt="Demo of the AI Ed-Tech Reviewer" width="600"/>
-</p>
 
 ### Why I Built This
 
